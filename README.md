@@ -1,4 +1,5 @@
 # Cetak Tiket KAI
+Program C++ untuk menghasilkan tiket kereta api berdasarkan data pelanggan yang diinput oleh admin. Admin dapat memasukkan detail pelanggan dan perjalanan kereta, lalu mencetak tiket dengan format terstruktur.
 
 ## Alur
 - Input data pelanggan seperti nama, nomor identitas, dan kode booking.
